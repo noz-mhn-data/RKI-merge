@@ -289,6 +289,7 @@ LK Erlangen-Höchstadt;09572
 LK Fürth;09573
 LK Nürnberger Land;09574
 LK Neustadt/Aisch-Bad Windsheim;09575
+LK Neustadt a.d.Aisch-Bad Windsheim;09575
 LK Roth;09576
 LK Weißenburg-Gunzenhausen;09577
 SK Aschaffenburg;09661
@@ -322,8 +323,21 @@ LK Merzig-Wadern;10042
 LK Neunkirchen;10043
 LK Saarlouis;10044
 LK Saar-Pfalz-Kreis;10045
+LK Saarpfalz-Kreis;10045
 LK Sankt Wendel;10046
 Berlin;11000
+SK Berlin Charlottenburg-Wilmersdorf;11000
+SK Berlin Friedrichshain-Kreuzberg;11000
+SK Berlin Lichtenberg;11000
+SK Berlin Marzahn-Hellersdorf;11000
+SK Berlin Mitte;11000
+SK Berlin Neukölln;11000
+SK Berlin Pankow;11000
+SK Berlin Reinickendorf;11000
+SK Berlin Spandau;11000
+SK Berlin Steglitz-Zehlendorf;11000
+SK Berlin Tempelhof-Schöneberg;11000
+SK Berlin Treptow-Köpenick;11000
 SK Brandenburg a.d.Havel;12051
 SK Cottbus;12052
 SK Frankfurt (Oder);12053
@@ -346,9 +360,12 @@ LK Rostock;13072
 SK Schwerin;13004
 LK Mecklenburgische Seenplatte;13071
 LK Vorpommern–Rügen;13073
+LK Vorpommern-Rügen;13073
 LK Nordwestmecklenburg;13074
 LK Vorpommern–Greifswald;13075
+LK Vorpommern-Greifswald;13075
 LK Ludwigslust–Parchim;13076
+LK Ludwigslust-Parchim;13076
 SK Chemnitz;14511
 LK Erzgebirgskreis;14521
 SK Rostock;13003
